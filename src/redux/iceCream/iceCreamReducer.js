@@ -1,7 +1,7 @@
 import { BUY_ICECREAM } from './iceCreamTypes';
 
 const initialState = {
-    numOfIceCreams: 100
+    numOfIceCreams: 400
 }
 
 const buyIceCream = (state = initialState, action)=>{
